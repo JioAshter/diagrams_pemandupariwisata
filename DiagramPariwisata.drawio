@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-01T04:53:51.587Z" agent="5.0 (Windows)" etag="IBMKpjsr8ChTFKZ4nMtk" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-01T04:54:27.939Z" agent="5.0 (Windows)" etag="WHzMkPy3G3gvYRs_sgia" version="14.2.7" type="github">
   <diagram id="czWmQDC1SiOeXz4m1C-m" name="Sistem_Berjalan">
     <mxGraphModel dx="1157" dy="652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -47,6 +47,11 @@
         <mxCell id="4GkhkhjfWNRsV4Wuxg6R-17" value="&lt;div&gt;Data Destinasi&lt;/div&gt;&lt;div&gt; Wisata&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;sketch=0;strokeColor=#006658;fillColor=#21C0A5;fontColor=#5C5C5C;" vertex="1" parent="1">
           <mxGeometry x="330" y="380" width="140" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="4GkhkhjfWNRsV4Wuxg6R-25" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#006658;fillColor=#21C0A5;fontColor=#5C5C5C;" edge="1" parent="1" source="4GkhkhjfWNRsV4Wuxg6R-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="4GkhkhjfWNRsV4Wuxg6R-20" value="&lt;div&gt;Booking &lt;br&gt;&lt;/div&gt;&lt;div&gt;Order Destinasi&lt;/div&gt;&lt;div&gt; Wisata&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;sketch=0;strokeColor=#006658;fillColor=#21C0A5;fontColor=#5C5C5C;" vertex="1" parent="1">
           <mxGeometry x="330" y="480" width="140" height="70" as="geometry" />
         </mxCell>
@@ -57,6 +62,11 @@
             <Array as="points">
               <mxPoint x="710" y="615" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4GkhkhjfWNRsV4Wuxg6R-24" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#006658;fillColor=#21C0A5;fontColor=#5C5C5C;" edge="1" parent="1" source="4GkhkhjfWNRsV4Wuxg6R-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4GkhkhjfWNRsV4Wuxg6R-22" value="&lt;div&gt;Validasi Order&lt;/div&gt;&lt;div&gt;&amp;amp;&lt;/div&gt;&lt;div&gt;Ticket Order&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;sketch=0;strokeColor=#006658;fillColor=#21C0A5;fontColor=#5C5C5C;" vertex="1" parent="1">
