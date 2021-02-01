@@ -1,1 +1,47 @@
-<mxfile host="app.diagrams.net" modified="2021-02-01T04:35:32.766Z" agent="5.0 (Windows)" etag="LehWqFudyGFn7hZDnp4u" version="14.2.7" type="github"><diagram id="czWmQDC1SiOeXz4m1C-m" name="Page-1">ddHNEoIgEADgp+GOUo2dzfLSyUNnRjZhBl0GabSePh0wY6wLs3y7sPwQlrfjxXIjryhAk5SKkbATSdPskE3jDE8Pu+zoobFKeEpWqNQLAtKgDyWgjwodonbKxFhj10HtIuPW4hCX3VHHXQ1vYANVzfVWb0o4Ga61p6uXoBq5dE5oyLR8KQ7QSy5w+CJWEJZbROejdsxBz2+3vItfd/6T/RzMQud+LJiCde9pEn0QK94=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-02-01T04:46:04.336Z" agent="5.0 (Windows)" etag="x_R7dg5JzhUitUgO9RMg" version="14.2.7" type="github">
+  <diagram id="czWmQDC1SiOeXz4m1C-m" name="Sistem_Berjalan">
+    <mxGraphModel dx="1157" dy="652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4GkhkhjfWNRsV4Wuxg6R-10" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.214;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#006658;fillColor=#21C0A5;fontColor=#5C5C5C;" edge="1" parent="1" source="4GkhkhjfWNRsV4Wuxg6R-1" target="4GkhkhjfWNRsV4Wuxg6R-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4GkhkhjfWNRsV4Wuxg6R-1" value="User Pariwisata" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#21C0A5;strokeColor=#006658;fontColor=#5C5C5C;" vertex="1" parent="1">
+          <mxGeometry x="130" y="200" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4GkhkhjfWNRsV4Wuxg6R-15" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#006658;fillColor=#21C0A5;fontColor=#5C5C5C;" edge="1" parent="1" source="4GkhkhjfWNRsV4Wuxg6R-6" target="4GkhkhjfWNRsV4Wuxg6R-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4GkhkhjfWNRsV4Wuxg6R-6" value="Registrasi Account" style="ellipse;whiteSpace=wrap;html=1;rounded=0;sketch=0;strokeColor=#006658;fillColor=#21C0A5;fontColor=#5C5C5C;" vertex="1" parent="1">
+          <mxGeometry x="330" y="170" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="4GkhkhjfWNRsV4Wuxg6R-7" value="Validasi &amp;amp; Aktivasi" style="ellipse;whiteSpace=wrap;html=1;rounded=0;sketch=0;strokeColor=#006658;fillColor=#21C0A5;fontColor=#5C5C5C;" vertex="1" parent="1">
+          <mxGeometry x="330" y="280" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="4GkhkhjfWNRsV4Wuxg6R-12" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#006658;fillColor=#21C0A5;fontColor=#5C5C5C;" edge="1" parent="1" source="4GkhkhjfWNRsV4Wuxg6R-11" target="4GkhkhjfWNRsV4Wuxg6R-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="705" y="150" />
+              <mxPoint x="430" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4GkhkhjfWNRsV4Wuxg6R-11" value="Pengelola Wisata" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;rounded=0;sketch=0;strokeColor=#006658;fillColor=#21C0A5;fontColor=#5C5C5C;" vertex="1" parent="1">
+          <mxGeometry x="690" y="170" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4GkhkhjfWNRsV4Wuxg6R-16" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#006658;fillColor=#21C0A5;fontColor=#5C5C5C;" edge="1" parent="1" source="4GkhkhjfWNRsV4Wuxg6R-13" target="4GkhkhjfWNRsV4Wuxg6R-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="280" y="30" />
+              <mxPoint x="280" y="315" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4GkhkhjfWNRsV4Wuxg6R-13" value="Superuser" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;rounded=0;sketch=0;strokeColor=#006658;fillColor=#21C0A5;fontColor=#5C5C5C;" vertex="1" parent="1">
+          <mxGeometry x="380" y="20" width="30" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
