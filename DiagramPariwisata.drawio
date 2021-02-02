@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-02T22:53:37.820Z" agent="5.0 (Windows)" etag="HutLqHZ5feFabP8mm9l3" version="14.2.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-02-02T22:55:22.391Z" agent="5.0 (Windows)" etag="9cUQKqDQcrMka7dxt5dj" version="14.2.7" type="github" pages="2">
   <diagram id="czWmQDC1SiOeXz4m1C-m" name="Sistem_Berjalan">
     <mxGraphModel dx="1157" dy="652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -175,12 +175,10 @@
         <mxCell id="44fmwh1aTDaG9os9myui-7" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#006658;fillColor=#21C0A5;fontColor=#5C5C5C;" edge="1" parent="cidek32qeJjuO6nQaNiy-0" source="cidek32qeJjuO6nQaNiy-4" target="44fmwh1aTDaG9os9myui-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="44fmwh1aTDaG9os9myui-12" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.158;entryY=1.08;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#006658;fillColor=#21C0A5;fontColor=#5C5C5C;" edge="1" parent="cidek32qeJjuO6nQaNiy-0" source="44fmwh1aTDaG9os9myui-10" target="cidek32qeJjuO6nQaNiy-13">
+        <mxCell id="44fmwh1aTDaG9os9myui-12" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.158;entryY=1.08;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#006658;fillColor=#21C0A5;fontColor=#5C5C5C;" edge="1" parent="cidek32qeJjuO6nQaNiy-0" source="44fmwh1aTDaG9os9myui-10" target="cidek32qeJjuO6nQaNiy-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="550" y="530" />
-              <mxPoint x="550" y="355" />
-              <mxPoint x="182" y="355" />
+              <mxPoint x="182" y="530" />
             </Array>
           </mxGeometry>
         </mxCell>
